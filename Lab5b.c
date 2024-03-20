@@ -1,8 +1,3 @@
-/*
-5
-b. Solving Tower of Hanoi problem with n disks
-*/
-
 #include<stdio.h>
 #include<stdlib.h>
 
